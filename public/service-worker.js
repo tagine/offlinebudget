@@ -1,5 +1,11 @@
 const FILES_TO_CACHE = ["/", "/index.html", "app.js", "favicon.ico"];
 
+var urlsToCache = [
+  "/",
+  "/public/styles.css",
+  "/script/main.js"
+];
+
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
 
