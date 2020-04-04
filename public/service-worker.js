@@ -2,11 +2,13 @@ const FILES_TO_CACHE = ["/", "/index.html", "app.js", "favicon.ico"];
 
 var urlsToCache = [
   "/",
-  "/public/styles.css",
-  "/script/main.js"
+  "/styles.css",
+  "/index.js",
+  "/db.js"
+
 ];
 
-const CACHE_NAME = "static-cache-v2";
+var CACHE_NAME = "my-site-cache-v1";
 const DATA_CACHE_NAME = "data-cache-v1";
 
 // install
