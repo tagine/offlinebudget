@@ -64,7 +64,3 @@ app.delete("/clearall", (req, res) => {
       }
     );
   });
-
-// target.addEventListener(type, listener [, options]);
-// window eventlesiner "online"
-// scanDAtabase

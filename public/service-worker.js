@@ -1,4 +1,4 @@
-const FILES_TO_CACHE = ["/", "/index.html", "app.js", "favicon.ico"];
+const FILES_TO_CACHE = ["/", "/index.html", "app.js", "favicon.ico", "manifest.webmanifest"];
 
 var urlsToCache = [
   "/",
